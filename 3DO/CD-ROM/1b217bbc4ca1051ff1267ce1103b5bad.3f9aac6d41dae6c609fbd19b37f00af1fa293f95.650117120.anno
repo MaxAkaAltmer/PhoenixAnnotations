@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <legend name="Twisted - The Game Show (1993)(Electronic Arts)(EU)" dev="" year="199?" genre="" mark="5" emulevel="100" players="1" />
+    <bugreport>
+        <entry type="Зависание" info="Битый образ, зависает в одном из видео пазлов" />
+    </bugreport>
+</root>
