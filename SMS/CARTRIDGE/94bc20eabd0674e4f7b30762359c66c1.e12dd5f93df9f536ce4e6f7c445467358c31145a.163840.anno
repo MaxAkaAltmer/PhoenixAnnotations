@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <legend name="Complete Arcade Pack Collection, The (J) (SF-7000)" dev="" year="199?" genre="" mark="5" emulevel="0" players="1" />
+    <bugreport>
+        <entry type="Другое" info="не работает не на одном эмуляторе" />
+    </bugreport>
+</root>

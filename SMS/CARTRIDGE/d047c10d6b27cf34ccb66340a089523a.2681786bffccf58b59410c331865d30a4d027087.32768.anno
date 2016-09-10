@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <legend name="Castle, The (J) (SG-1000)" dev="" year="199?" genre="" mark="5" emulevel="0" players="1" />
+    <bugreport>
+        <entry type="Другое" info="Графика артефачит, зависает" />
+    </bugreport>
+</root>
