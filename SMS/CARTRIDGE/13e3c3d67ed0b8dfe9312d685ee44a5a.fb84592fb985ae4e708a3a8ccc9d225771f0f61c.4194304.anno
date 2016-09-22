@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root ver="2.7.6">
+<root ver="2.7.10">
     <legend name="Coleco 20-in-1 SMS Handheld (U)" dev="" year="199?" genre="" mark="5" emulevel="0" players="1" />
     <banner>iVBORw0KGgoAAAANSUhEUgAAAT8AAADwCAIAAAD5DfQpAAAACXBIWXMAABJ0AAASdAHeZh94AAAA9klEQVR4nO3BgQAAAADDoPlTX+EAVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACvAYJNAAGuZ/dsAAAAAElFTkSuQmCC</banner>
     <bugreport>
-        <entry type="Другое" info="вообще не запускается. На Gearsystem доходит до меню выбора игр, но игры не запускаются" />
+        <entry type="Другое" info="Это дамп с клона SMS с зашитыми играми. Требуется особый маппер не только памяти, но и портов." />
+        <entry type="Другое" info="http://members.optusnet.com.au/eviltim/sega20in1/sega20in1.htm" />
     </bugreport>
 </root>
